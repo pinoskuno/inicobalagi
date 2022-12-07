@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryAppSubmission1</string>
+    <string name="upload_by">Upload By :</string>
+    <string name="date">Date :</string>
+    <string name="date_upload">Date Upload</string>
+    <string name="name">Name</string>
+    <string name="Date">Tanggal</string>
+    <string name="image">Gambar</string>
+    <string name="welcome">Welcome</string>
+    <string name="singup">Singup</string>
+    <string name="login">Login</string>
+    <string name="detail_row_photo">Detail row photo</string>
+    <string name="welcome_photo">Welcome Photo</string>
+    <string name="title_welcome">Welcome to Gramp Apps</string>
+    <string name="detail_photo">Detail Photo</string>
+    <string name="detail_post_date">Post Date</string>
+    <string name="samplle">Tanggal</string>
+    <string name="detail_descripton">Description</string>
+    <string name="upload_name">Upload Name</string>
+    <string name="title_login_page">Enjoy Story</string>
+    <string name="message_loading">Selamat membaca!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="singup_message">Silahkan isi data terlebih dahulu</string>
+    <string name="Singup_singup">Singup</string>
+    <string name="newstory_photo">NewStory Photo</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="gallery">Gallery</string>
+    <string name="newstory_description">Description</string>
+    <string name="post">Post</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_nama">Nama</string>
+</resources>
